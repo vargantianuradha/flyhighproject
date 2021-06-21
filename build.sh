@@ -1,3 +1,3 @@
 #!/bin/bash
 echo "inside bash script"
-`mvn cleaaan install`
+`mvn clean install`
